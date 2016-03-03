@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scriptorumeccles02rout_0143.png"; bbox 0 0 1916 3328; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1916 1721">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1916 1721">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1916 1721; baseline 0 -200"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1916 1721; x_wconf 95' lang='lat' dir='ltr'><strong>      </strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 922 1158 1330 1250; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 279 1293 1442 1822">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 331 1293 1144 1399">
+     <span class='ocr_line' id='line_1_2' title="bbox 415 1293 1144 1372; baseline -0.047 23.074"><span class='ocrx_word' id='word_1_3' title='bbox 415 1362 420 1366; x_wconf 92' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 608 1293 1039 1368; x_wconf 71' lang='lat' dir='ltr'>GELASIO</span> <span class='ocrx_word' id='word_1_5' title='bbox 1082 1293 1144 1372; x_wconf 86' lang='grc' dir='ltr'><strong>Ῑ,</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 330 1399 1284 1542">
+     <span class='ocr_line' id='line_1_3' title="bbox 330 1399 1284 1542; baseline -0.019 -27"><span class='ocrx_word' id='word_1_6' title='bbox 330 1399 419 1542; x_wconf 52' lang='grc' dir='ltr'><strong><em>,ς’ῗ.</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 469 1428 811 1508; x_wconf 69' lang='lat' dir='ltr'><strong>nomo</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 863 1436 1284 1507; x_wconf 72' lang='lat' dir='ltr'><strong>nmscoro,</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 279 1547 1442 1822">
+     <span class='ocr_line' id='line_1_4' title="bbox 423 1590 1442 1662; baseline -0.01 -5.159"><span class='ocrx_word' id='word_1_9' title='bbox 423 1660 425 1662; x_wconf 81' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 451 1592 598 1643; x_wconf 71' lang='lat'><strong>1¹¹¹</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 628 1592 886 1643; x_wconf 67' lang='lat' dir='ltr'><strong>mu</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 913 1592 1131 1650; x_wconf 72' lang='lat' dir='ltr'><strong>Quum</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1163 1590 1442 1647; x_wconf 68' lang='lat' dir='ltr'><strong>nonum</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 279 1718 1071 1822; baseline -0.027 -26"><span class='ocrx_word' id='word_1_14' title='bbox 279 1718 350 1801; x_wconf 64' lang='lat' dir='ltr'><strong>pff</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 661 1729 1071 1786; x_wconf 68' lang='lat' dir='ltr'>amm-un</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
